@@ -23,9 +23,6 @@ int main(){
         c2++;
         if (islower(s[i]))
         c3++;
-        
-
-
     }
     cout<<"the no of words is "<<c1;
     in.close();
