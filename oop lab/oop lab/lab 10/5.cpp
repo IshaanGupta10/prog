@@ -24,7 +24,7 @@ int main(){
         if (islower(s[i]))
         c3++;
     }
-    cout<<"the no of words is "<<c1;
+    cout<<"the no of words is "<<(c1+1)<<" and no of upper is "<<c2<<"and no of lower is "<<c3;
     in.close();
 return 0;
 }
